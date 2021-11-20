@@ -4,7 +4,7 @@ I am a computer science engineer and have experience in working as a freelancer 
 
 - 🔭 I’m currently working on ReactJS, Html, Css, Javascript, Bootstrap, Material-ui.
 - 🌱 I’m currently learning backend development using Nodejs, Expressjs and MongoDB.
-- ⚡  Available for Freelance projects/internship opportunities.
+- ⚡  Available for Freelance projects/Fulltime opportunities.
 
 ### 📫 Reach me at 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
