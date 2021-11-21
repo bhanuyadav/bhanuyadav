@@ -3,6 +3,7 @@ I am a computer science engineer having experience in working as a freelancer in
 
 
 - 🔭 I’m currently working on ReactJS, Html, Css, Javascript, Bootstrap, Material-ui.
+- ⚡ UI/UX design using Adobe Illustrator, figma , Adobe XD
 - 🌱 I’m currently learning backend development using Nodejs, Expressjs and MongoDB.
 - ⚡  Available for Freelance projects/Fulltime opportunities.
 
@@ -12,7 +13,7 @@ I am a computer science engineer having experience in working as a freelancer in
 <p align="center">
 <a href="https://bhanuyadav.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.bhanuyadav.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/bhanuyadav24/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bhanu%20Yadav-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/bhanuyadav7865/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bhamuyadav__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:yadavbhanu42@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yadavbhanu42@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
